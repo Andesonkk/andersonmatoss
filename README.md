@@ -27,11 +27,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-| Estatísticas do GitHub | Repositórios em Destaque |
-|:----------------------:|:------------------------:|
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andersonmatoss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) | ![Repositório em Destaque](https://github-readme-stats.vercel.app/api/pin/?username=andersonmatoss&repo=andersonmatoss&cache_seconds=86400&theme=graywhite) |
-
-</div>
